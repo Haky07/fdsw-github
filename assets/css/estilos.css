@@ -1,6 +1,10 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+/* Titulo */
+.titulo {
+  font-weight: 900;
+}
 
 /* Hero Section */
 
